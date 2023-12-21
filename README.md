@@ -1,2 +1,2 @@
 # Natural-language-processing
-This repository gathers the assignments and projects I worked on for my NLP class in kennesaw state university
+This repository gathers personal projects and other academic projects/coding assignments I worked on for my NLP class at Kennesaw State University.
